@@ -8,7 +8,7 @@ from parameterized import parameterized
 from utils import (
     access_nested_map,
     get_json,
-Memoization    memoize,
+    memoize,
 )
 
 
